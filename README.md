@@ -28,11 +28,11 @@ Tela inicial:
 
 Adicionando algo:
 
-![Adicionando algo](image/adicionando.png)
+![Adicionando algo](images/adicionando.png)
 
 Listando todos os produtos:
 
-![Listando todos os produtos](image/listando.png)
+![Listando todos os produtos](images/listando.png)
 
 ## Tecnologias Utilizadas
 
